@@ -2,7 +2,7 @@
 
 # Output
 
-https://github.com/Ashokgehlot318/Parallax-Effect-Project/assets/118416828/eab77f52-f293-4e31-921c-a4122efaf32f
+https://github.com/Ashokgehlot318/Parallax-Effect-Project/assets/118416828/6467e9f4-9dd7-4a6f-a424-23af75d40198
 
 
 
